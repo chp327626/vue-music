@@ -73,7 +73,7 @@ export default {
     left: 5%;
     width: 142px;
     height: 67px;
-    background-image: url(/img/hot_icon.5207a28c.png);
+    background-image: url('~@/assets/img/hot_icon.png');
     background-position: -24px -30px;
     background-size: 166px 97px;
   }
